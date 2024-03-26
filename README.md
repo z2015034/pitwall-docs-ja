@@ -8,26 +8,28 @@ PITWALLでは、業務で必要となる各種ツールを統合し、1クリッ
 
 ## Quick links
 
-{% content-ref url="overview/pitwallgamareta.md" %}
-[pitwallgamareta.md](overview/pitwallgamareta.md)
+{% content-ref url="overview/why-we-built-pitwall.md" %}
+[why-we-built-pitwall.md](overview/why-we-built-pitwall.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/pitwalltohaka.md" %}
-[pitwalltohaka.md](overview/pitwalltohaka.md)
+{% content-ref url="overview/what-is-pitwall.md" %}
+[what-is-pitwall.md](overview/what-is-pitwall.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/ji-neng-shao-jie.md" %}
-[ji-neng-shao-jie.md](overview/ji-neng-shao-jie.md)
+{% content-ref url="overview/features.md" %}
+[features.md](overview/features.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/rdomappu.md" %}
-[rdomappu.md](overview/rdomappu.md)
+{% content-ref url="overview/roadmap.md" %}
+[roadmap.md](overview/roadmap.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 簡単なガイドをまとめました。ステップに沿って素早く簡単に製品をセットアップできます。
 
+<!-- 
+ページ構成を変更するため、このリンクの取り扱いを要検討
 {% content-ref url="tutorial-get-started./insutru/" %}
 [insutru](tutorial-get-started./insutru/)
 {% endcontent-ref %}
@@ -38,4 +40,5 @@ PITWALLでは、業務で必要となる各種ツールを統合し、1クリッ
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
-{% endcontent-ref %}
+{% endcontent-ref %} 
+-->
