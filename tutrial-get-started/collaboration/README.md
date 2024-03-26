@@ -1,1 +1,1 @@
-# What is COllaboration
+# What is Collaboration
