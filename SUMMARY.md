@@ -5,39 +5,46 @@
 
 ## Overview
 
-* [📘 PITWALLが生まれた経緯](overview/pitwallgamareta.md)
-* [💡 PITWALLとは何か？](overview/pitwalltohaka.md)
-* [✨ 機能紹介](overview/ji-neng-shao-jie.md)
-* [🏎️ ロードマップ](overview/rdomappu.md)
-* [🔖 リリースノート](overview/rirsunto/README.md)
-  * [💻 Web UI & Backend](overview/rirsunto/web-ui-and-backend/README.md)
-    * [🔖 Web UI & Backend - アーカイブ](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/README.md)
-      * [🎞️ Web UI & バックエンド Pre-GA](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/README.md)
-        * [🔖 リリースノート v.0.12.x](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/rirsunto-v012x.md)
-        * [🔖 リリースノート v.0.11.x](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/rirsunto-v011x.md)
-        * [🔖 リリースノート v.0.10.x](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/rirsunto-v010x.md)
-        * [🔖 リリースノート v.0.9.x](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/rirsunto-v09x.md)
-        * [🔖 リリースノート v.0.8.x](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/rirsunto-v08x.md)
-        * [🔖 リリースノート v.0.7.x](overview/rirsunto/web-ui-and-backend/web-ui-backend-kaibu/web-ui-bakkuendo-pre-ga/rirsunto-v07x.md)
-  * [➕ ブラウザ拡張機能](overview/rirsunto/burauza.md)
+* [📘 PITWALLが生まれた経緯](overview/why-we-built-pitwall.md)
+* [💡 PITWALLとは何か？](overview/what-is-pitwall.md)
+* [✨ 機能紹介](overview/features.md)
+* [🏎️ ロードマップ](overview/roadmap.md)
+* [🔖 リリースノート](overview/release-notes/README.md)
+  * [💻 Web UI & Backend](overview/release-notes/web-ui-and-backend/README.md)
+    * [🔖 Web UI & Backend - アーカイブ](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/README.md)
+      * [🎞️ Web UI & バックエンド Pre-GA](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/README.md)
+        * [🔖 リリースノート v.0.12.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.12.x.md)
+        * [🔖 リリースノート v.0.11.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.11.x.md)
+        * [🔖 リリースノート v.0.10.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.10.x.md)
+        * [🔖 リリースノート v.0.9.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.9.x.md)
+        * [🔖 リリースノート v.0.8.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.8.x.md)
+        * [🔖 リリースノート v.0.7.x](overview/release-notes/web-ui-and-backend/web-ui-and-backend-archive/web-ui-and-backend-pre-ga/release-notes-v.0.7.x.md)
+  * [➕ ブラウザ拡張機能](overview/release-notes/browser-extension.md)
 
 ## Tutorial - Get Started
+* [Studio](tutorial-get-started/studio/README.md)
+  * [Assets](tutorial-get-started/studio/assets.md)
+  * [Senarios](tutorial-get-started/studio/senarios.md)
+  * [Recipient settings](tutorial-get-started/studio/recipient-settings.md)
+  * [Screenshot settings](tutorial-get-started/studio/screenshot-settings.md)
+  * [Analysis center (β)](tutorial-get-started/studio/analysis-center.md)
 
-### Studio
-* [Assets](tutorial-get-started/studio/assets.md)
-* [Senarios](tutorial-get-started/studio/senarios.md)
-* [Recipient settings](tutorial-get-started/studio/recipient-settings.md)
-* [Screenshot settings](tutorial-get-started/studio/screenshot-settings.md)
-* [Analysis center (β)](tutorial-get-started/studio/analysis-center.md)
+* [Collaboration](tutorial-get-started/collaboration/README.md)
+  * [Threads (β)](tutorial-get-started/collaboration/threads.md)
+  * [Clips (β)](tutorial-get-started/collaboration/clips.md)
 
-### Collaboration
+* [Extansions](tutorial-get-started/extensions/README.md)
+  * [Private extensions](tutorial-get-started/extensions/private-extensions.md)
+  * [Community extensions](tutorial-get-started/extensions/community-extensions.md)
 
-### Extansions
+* [History](tutorial-get-started/history/README.md)
+  * [Alert](tutorial-get-started/history/alert.md)
+  * [Instant lookup](tutorial-get-started/history/instant-lookup.md)
+  * [Scheduled](tutorial-get-started/history/scheduled.md)
+  * [Dashboard](tutorial-get-started/history/dashboard.md)
 
-### History
-
-
-### PITWALL dashboard (β)
+* [PITWALL dashboard (β)](tutorial-get-started/pitwall-dashboard/README.md)
+  * [Dashboard groups](tutorial-get-started/pitwall-dashboard/dashboard-groups.md)
 
 
 <!-- ## Tutorial - Get Started
