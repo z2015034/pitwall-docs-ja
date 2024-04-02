@@ -1,1 +1,1 @@
-# What is STUDIO
+# STUDIO
