@@ -22,6 +22,11 @@
   * [➕ ブラウザ拡張機能](overview/release-notes/browser-extension.md)
 
 ## Tutorial - Get Started
+* [ログイン](tutorial-get-started/studio/login.md)
+* [ログアウト](tutorial-get-started/studio/logout.md)
+* [アカウント管理](tutorial-get-started/studio/manage-my-account.md)
+* [組織の管理](tutorial-get-started/studio/manage-organization.md)
+
 * [Studio](tutorial-get-started/studio/README.md)
   * [Assets](tutorial-get-started/studio/assets.md)
   * [Senarios](tutorial-get-started/studio/senarios.md)
