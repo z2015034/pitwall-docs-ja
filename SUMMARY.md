@@ -27,29 +27,29 @@
 * [アカウント管理](tutorial-get-started/manage-my-account.md)
 * [組織の管理](tutorial-get-started/manage-organization.md)
 
-* [Studio](tutorial-get-started/studio/README.md)
-  * [Assets](tutorial-get-started/studio/assets.md)
-  * [Senarios](tutorial-get-started/studio/senarios.md)
-  * [Recipient settings](tutorial-get-started/studio/recipient-settings.md)
-  * [Screenshot settings](tutorial-get-started/studio/screenshot-settings.md)
-  * [Analysis center (β)](tutorial-get-started/studio/analysis-center.md)
+* [スタジオ](tutorial-get-started/studio/README.md)
+  * [アセット](tutorial-get-started/studio/assets.md)
+  * [シナリオ](tutorial-get-started/studio/senarios.md)
+  * [通知先の設定](tutorial-get-started/studio/recipient-settings.md)
+  * [スクリーンショット設定](tutorial-get-started/studio/screenshot-settings.md)
+  * [利用状況 (β)](tutorial-get-started/studio/analysis-center.md)
 
-* [Collaboration](tutorial-get-started/collaboration/README.md)
-  * [Threads (β)](tutorial-get-started/collaboration/threads.md)
-  * [Clips (β)](tutorial-get-started/collaboration/clips.md)
+* [コラボレーション](tutorial-get-started/collaboration/README.md)
+  * [スレッド (β)](tutorial-get-started/collaboration/threads.md)
+  * [クリップ (β)](tutorial-get-started/collaboration/clips.md)
 
-* [Extansions](tutorial-get-started/extensions/README.md)
-  * [Private extensions](tutorial-get-started/extensions/private-extensions.md)
-  * [Community extensions](tutorial-get-started/extensions/community-extensions.md)
+* [拡張機能](tutorial-get-started/extensions/README.md)
+  * [プライベート拡張機能](tutorial-get-started/extensions/private-extensions.md)
+  * [コミュニティ拡張機能](tutorial-get-started/extensions/community-extensions.md)
 
-* [History](tutorial-get-started/history/README.md)
-  * [Alert](tutorial-get-started/history/alert.md)
-  * [Instant lookup](tutorial-get-started/history/instant-lookup.md)
-  * [Scheduled](tutorial-get-started/history/scheduled.md)
-  * [Dashboard](tutorial-get-started/history/dashboard.md)
+* [履歴](tutorial-get-started/history/README.md)
+  * [アラート](tutorial-get-started/history/alert.md)
+  * [インスタントルックアップ](tutorial-get-started/history/instant-lookup.md)
+  * [定期実行](tutorial-get-started/history/scheduled.md)
+  * [ダッシュボード](tutorial-get-started/history/dashboard.md)
 
-* [PITWALL dashboard (β)](tutorial-get-started/pitwall-dashboard/README.md)
-  * [Dashboard groups](tutorial-get-started/pitwall-dashboard/dashboard-groups.md)
+* [ピットウォールダッシュボード (β)](tutorial-get-started/pitwall-dashboard/README.md)
+  * [ダッシュボードグループ](tutorial-get-started/pitwall-dashboard/dashboard-groups.md)
 
 
 
