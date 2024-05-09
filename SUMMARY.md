@@ -22,10 +22,14 @@
   * [➕ ブラウザ拡張機能](overview/release-notes/browser-extension.md)
 
 ## Tutorial - Get Started
+
 * [ログイン](tutorial-get-started/login.md)
 * [ログアウト](tutorial-get-started/logout.md)
 * [アカウント管理](tutorial-get-started/manage-my-account.md)
 * [組織の管理](tutorial-get-started/manage-organization.md)
+
+* [ピットウォールハブ](tutorial-get-started/pitwall-hub/README.md)
+  * [ハブ](tutorial-get-started/pitwall-hub/dashboard-hub.md)
 
 * [スタジオ](tutorial-get-started/studio/README.md)
   * [アセット](tutorial-get-started/studio/assets.md)
@@ -46,10 +50,7 @@
   * [アラート](tutorial-get-started/history/alert.md)
   * [インスタントルックアップ](tutorial-get-started/history/instant-lookup.md)
   * [定期実行](tutorial-get-started/history/scheduled.md)
-  * [ダッシュボード](tutorial-get-started/history/dashboard.md)
-
-* [ピットウォールダッシュボード (β)](tutorial-get-started/pitwall-dashboard/README.md)
-  * [ダッシュボードグループ](tutorial-get-started/pitwall-dashboard/dashboard-groups.md)
+  * [ハブ](tutorial-get-started/history/hub.md)
 
 
 
@@ -85,7 +86,9 @@
 * [⏮️ ふりかえり](tutorial-get-started./furikaeri/README.md)
   * [イベントログ / インサイト](tutorial-get-started./furikaeri/ibentorogu-insaito.md)
   * [ピン、タグ、コメント](tutorial-get-started./furikaeri/pintagukomento.md)
-* [🔩 PITWALL拡張機能](tutorial-get-started./pitwall-kuo-zhang-ji-neng.md) -->
+* [🔩 PITWALL拡張機能](tutorial-get-started./pitwall-kuo-zhang-ji-neng.md) 
+
+-->
 
 ## Use Cases
 
