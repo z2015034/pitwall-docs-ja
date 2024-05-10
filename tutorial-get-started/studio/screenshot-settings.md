@@ -5,25 +5,23 @@
 
 スクリーンショットは以下のような使い方ができます。
 - キャプチャしてアラートに添付。
-<!-- - event log/insightsで閲覧して詳しい分析をする。 -->
 - プレビュー画面がレビュー用に利用できます。
 
 ## 使用方法
 
-初期画面
-はじめて利用する場合、このような画面になります。
+初期画面はこのような画面になります。
 
-{photo}
+<figure><img src="../../.gitbook/assets/screenshot_settings_home_ja.png" width="50%"></figure>
 
 ### スクリーンショット設定の登録
 右上の「スクリーンショット設定の新規作成」ボタンをクリックします。
 
-{photo}
+<figure><img src="../../.gitbook/assets/screenshot_settings_create_new_button_ja.png" width="50%"></figure>
 
 #### スクリーンショット設定の入力
 モーダル画面の 「スクリーンショット設定の新規作成」 からスクリーンショット設定の情報を登録します。
 
-{photo}
+<figure><img src="../../.gitbook/assets/screenshot_settings_create_new_ja.png" width="50%"></figure>
 
 - 名前:任意のスクリーンショット名を入力します
 - URL: 取得したいスクリーンショットのURLを入力します
@@ -36,14 +34,3 @@
 - デバッグモード: トグルスイッチは現在機能しません。
 
 「保存」ボタンをクリックします。
-
-  - オートメーションを新規作成
-      - Go to 
-        - Static
-        - Built-in
-          - URL
-          - User Name
-          - Password
-        - Screen shot option extension
-      - Session Manager
-      -   - 既存のものから選択:(要確認)

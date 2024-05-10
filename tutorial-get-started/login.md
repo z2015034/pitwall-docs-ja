@@ -1,6 +1,9 @@
 # ログイン方法
 
 - ブラウザーからPitwallのURL https://app.pitwall-web.jp/ へアクセスします。
+
+<figure><img src="../.gitbook/assets/login_ja.png" width="50%"></figure>
+
 - E-mailアドレスと、パスワードを入力して「Sign In」をクリックします。
   - ログイン後に「Scenario」ページに遷移すればログインが成功です。
   - 「Remember Me」にチェックを入れることで、次回からE-mailアドレスの入力を省略することができます。

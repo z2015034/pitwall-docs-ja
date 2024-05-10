@@ -11,10 +11,9 @@ Pitwallを利用していると様々なデータが蓄積されます。以下�
 
 ## 使用方法
 
-初期画面
-はじめて利用する場合、このような画面になります。
+初期画面はこのような画面になります。
 
-{photo}
+<figure><img src="../../.gitbook/assets/analysis_center_home_ja.png" width="50%"></figure>
 
 ### 過去データの表示
 画面の右上のプルダウンメニューで、過去データの表示期間を選ぶことができます。
@@ -26,7 +25,7 @@ Pitwallを利用していると様々なデータが蓄積されます。以下�
 ### 設定の管理
 「設定の管理」ボタンをクリックするとモーダル画面が表示され、設定の変更ができます。
 
-{photo}
+<figure><img src="../../.gitbook/assets/analysis_center_settings_ja.png" width="50%"></figure>
 
 - アラートあたりの時間(分): 
 - オンデマンド ルックアップあたりの時間 (分):
