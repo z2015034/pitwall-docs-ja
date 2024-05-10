@@ -8,17 +8,14 @@
 初期画面
 はじめて利用する場合、このような画面になります。
 
-{photo}
+<figure><img src="../../.gitbook/assets/AssetsPageInitial_jp.png" width="50%" alt="アセット初期ページ"></figure>
 
 ### アセットの登録
 右上の「アセットの新規作成」ボタンをクリックします。
 
-{photo}
-
 #### アセット情報の入力
-モーダル画面の 「#1 アセット情報の入力」 からAssetの識別情報を登録します。
-
-{photo}
+モーダル画面の 「#1 アセット情報の入力」 からAssetの識別情報を登録します。<!--Photo--> 
+<figure><img src="../../.gitbook/assets/RegisterAssets_jp.png" width="50%" alt="アセット情報入力"></figure>
 
 - 名前: このアセットを素早く見つけられるように任意の名前をつけます。
 - カテゴリー: 対象アセットをふくむ同種のアセットを仕分けるための任意のカテゴリ名を定義します。（例：Trace, Log, Metricなど）
@@ -32,6 +29,9 @@
 「次のページ」ボタンをクリックします。
 
 ### スクリーンショット設定を構成
+<!--Photo-->
+<figure><img src="../../.gitbook/assets/RegisterAssetsScreenshot_jp.png" width="50%" alt="スクリーンショット設定"></figure>
+
 Assetのスクリーンショットを取得するかどうかについて確認します。
 下記のいづれかを選択します。
 
@@ -51,15 +51,18 @@ Assetのスクリーンショットを取得するかどうかについて確認
 「次のページ」ボタンをクリックします。
 スクリーンショットをとらないことを確認する画面が表示されますので、「保存」ボタンをクリックします。
 登録完了の画面が表示されアセットの登録完了となります。完了ボタンで初期画面に戻ります。
-
-{photo}
+<!--Photo--> 
+<figure><img src="../../.gitbook/assets/RegisterAssetscomplete_jp.png" width="50%" alt="アセット登録完了"></figure>
 
 
 ### Assetの確認
-
-
+アセットの登録が完了したら、アセット一覧に登録したアセットが表示されているかを確認します。
+<!--Photo--> 
+<figure><img src="../../.gitbook/assets/RegisterAssetsList_jp.png" width="50%" alt="登録確認"></figure>
 
 ### Assetの削除
 
-作成したAssetは、右サイドの三点リーダ（{photo}）より"Delete this asset"を選択します。
+作成したAssetは、右サイドの三点リーダより"Delete this asset"を選択します。
 削除してよい場合、削除ボタンをクリックして確定させます。
+<!--Photo--> 
+<figure><img src="../../.gitbook/assets/RegisterAssetsDelete_jp.png" width="50%" alt="登録削除"></figure>
