@@ -28,7 +28,7 @@
 * [アカウント管理](tutorial-get-started/manage-my-account.md)
 * [組織の管理](tutorial-get-started/manage-organization.md)
 
-* [ピットウォールハブ](tutorial-get-started/pitwall-hub/README.md)
+* ピットウォールハブ
   * [ハブ](tutorial-get-started/pitwall-hub/pitwall-hub.md)
 
 * [スタジオ](tutorial-get-started/studio/README.md)
