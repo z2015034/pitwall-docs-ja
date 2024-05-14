@@ -29,7 +29,7 @@
 * [組織の管理](tutorial-get-started/manage-organization.md)
 
 * [ピットウォールハブ](tutorial-get-started/pitwall-hub/README.md)
-  * [ハブ](tutorial-get-started/pitwall-hub/dashboard-hub.md)
+  * [ハブ](tutorial-get-started/pitwall-hub/pitwall-hub.md)
 
 * [スタジオ](tutorial-get-started/studio/README.md)
   * [アセット](tutorial-get-started/studio/assets.md)
