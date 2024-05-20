@@ -28,19 +28,22 @@
 * [アカウント管理](tutorial-get-started/manage-my-account.md)
 * [組織の管理](tutorial-get-started/manage-organization.md)
 
-* [ピットウォールハブ](tutorial-get-started/pitwall-hub/README.md)
+* ピットウォールハブ
   * [ハブ](tutorial-get-started/pitwall-hub/pitwall-hub.md)
 
 * [スタジオ](tutorial-get-started/studio/README.md)
   * [アセット](tutorial-get-started/studio/assets.md)
   * [シナリオ](tutorial-get-started/studio/senarios.md)
+    * [インスタントルックアップシナリオ](tutorial-get-started/studio/instantlookupscenario.md)
+    * [アラートシナリオ](tutorial-get-started/studio/alertscenario.md)
+    * [定期実行シナリオ](tutorial-get-started/studio/scheduledscenario.md)
   * [通知先の設定](tutorial-get-started/studio/recipient-settings.md)
   * [スクリーンショット設定](tutorial-get-started/studio/screenshot-settings.md)
-  * [利用状況 (β)](tutorial-get-started/studio/analysis-center.md)
+  * [利用状況](tutorial-get-started/studio/analysis-center.md)
 
 * [コラボレーション](tutorial-get-started/collaboration/README.md)
-  * [スレッド (β)](tutorial-get-started/collaboration/threads.md)
-  * [クリップ (β)](tutorial-get-started/collaboration/clips.md)
+  * [スレッド](tutorial-get-started/collaboration/threads.md)
+  * [クリップ](tutorial-get-started/collaboration/clips.md)
 
 * [拡張機能](tutorial-get-started/extensions/README.md)
   * [プライベート拡張機能](tutorial-get-started/extensions/private-extensions.md)
