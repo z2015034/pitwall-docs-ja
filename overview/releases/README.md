@@ -1,7 +1,7 @@
 # 🔖 リリースノート
 
-{% content-ref url="webui-backend/" %}
-[webui-backend](webui-backend/)
+{% content-ref url="webui-backend/README.md" %}
+[webui-backend/README.md](webui-backend/REAMDME.md)
 {% endcontent-ref %}
 
 {% content-ref url="browser-extension.md" %}
