@@ -22,7 +22,7 @@
   * [ブラウザ拡張機能](overview/releases/browser-extension.md)
 
 ## Tutorial - Get Started
-* [アカウント](tutorial-get-started/accounts/README.md)
+* アカウント
   * [ログイン/ログアウト](tutorial-get-started/accounts/login_logout.md)
   * [アカウント管理](tutorial-get-started/accounts/manage-my-account.md)
   * [組織の管理](tutorial-get-started/accounts/manage-organization.md)
