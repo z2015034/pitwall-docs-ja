@@ -22,10 +22,10 @@
   * [ブラウザ拡張機能](overview/releases/browser-extension.md)
 
 ## Tutorial - Get Started
-
-* [ログイン/ログアウト](tutorial-get-started/login_logout.md)
-* [アカウント管理](tutorial-get-started/manage-my-account.md)
-* [組織の管理](tutorial-get-started/manage-organization.md)
+* [アカウント](tutorial-get-started/accounts/README.md)
+  * [ログイン/ログアウト](tutorial-get-started/accounts/login_logout.md)
+  * [アカウント管理](tutorial-get-started/accounts/manage-my-account.md)
+  * [組織の管理](tutorial-get-started/accounts/manage-organization.md)
 
 * ピットウォールハブ
   * [ハブ](tutorial-get-started/pitwall-hub/pitwall-hub.md)
