@@ -10,13 +10,16 @@
 
 ## スクリーンショットの場合
 - ![](../../.gitbook/assets/clip_open_icon.png) : スクリーンショットを開いた後、次の操作を行うことができます。
-    - ピン![](../../.gitbook/assets/clip_pin_icon.png)：スクリーンショットをピン付けすることができます。
-    - タグを追加する![](../../.gitbook/assets/clip_tag_icon.png)：スクリーンショットにタグをつけることができます。
-    - コメント![](../../.gitbook/assets/clip_comment_icon.png)：スクリーンショットにコメントを記入することができます。
-    - 注釈をつける![](../../.gitbook/assets/clip_note_icon.png)：スクリーンショットに文字を入力したり、画を描くことができます。
-    - 注釈を非表示![](../../.gitbook/assets/clip_hideannotation_icon.png)：追加した注釈を非表示化します。
-    - 共有リンク![](../../.gitbook/assets/clip_sharelink_icon.png)：クリックすることで、該当スクリーンショットの共有リンクをコピーできます。
-    - ![](../../.gitbook/assets/clip_zoomin_icon.png)：スクリーンショットを拡大したり、縮小したりすることができます。
+
+| 項目 | 説明 | 
+| - | - | 
+| ピン ![](../../.gitbook/assets/clip_pin_icon.png) | スクリーンショットをピン付けすることができます。 |
+| タグを追加する ![](../../.gitbook/assets/clip_tag_icon.png) | スクリーンショットにタグをつけることができます。 |
+| コメント ![](../../.gitbook/assets/clip_comment_icon.png) | スクリーンショットにコメントを記入することができます。 |
+| 注釈をつける ![](../../.gitbook/assets/clip_note_icon.png) | スクリーンショットに文字を入力したり、画を描くことができます。 |
+| 注釈を非表示 ![](../../.gitbook/assets/clip_hideannotation_icon.png) | 追加した注釈を非表示化します。 |
+| 共有リンク ![](../../.gitbook/assets/clip_sharelink_icon.png) | クリックすることで、該当スクリーンショットの共有リンクをコピーできます。 |
+| ![](../../.gitbook/assets/clip_zoomin_icon.png) | スクリーンショットを拡大したり、縮小したりすることができます。 |
 
 - ![](../../.gitbook/assets/clip_delete_icon.png)：スクリーンショットを削除します。スレッド内に投稿されているスクリーンショットは削除することができません。削除したい場合は、スレッド内の対象スクリーンショットを削除してから、クリップビュー内のスクリーンショットを削除してください。
 
