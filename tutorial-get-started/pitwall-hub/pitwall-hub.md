@@ -10,7 +10,7 @@
 |アセット                  |ハブに登録してある、アセットの数が表示されます。
 |ホームにピン留め          |ハブ画面のページにピン留めすることができます。
 |最終更新日時              |ハブの設定が変更された最終日時が表示されます。
-|三点リーダ（その他の機能）|<br>● Edit this dashboard group：ハブの設定を変更します。<br>● Start dashboard comparison：ハブを使用して、登録されているアセットの分析を開始します。<br>● Delete this dashboard group：ハブを削除します。
+|三点リーダ（その他の機能）|● Edit this dashboard group：ハブの設定を変更します。<br>● Start dashboard comparison：ハブを使用して、登録されているアセットの分析を開始します。<br>● Delete this dashboard group：ハブを削除します。
   
 
 ## ハブの新規作成
