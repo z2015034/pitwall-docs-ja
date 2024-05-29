@@ -35,6 +35,9 @@
 |吹き出しアイコン![](../../.gitbook/assets/Hub_bubble.png)|ハブからスレッドを作成することができます。|
 |レイアウトアイコン![](../../.gitbook/assets/Hub_layout.png)|このハブのさまざまなインスタンスを比較することができます。<br>● ハブの比較対象を管理：ハブを時間フレーム や Key-Value セットと比較します。下記項目を設定して追加ボタンをクリックします。|
 
+ハブの設定例：
+<figure><img src="../../.gitbook/assets/Hub_sample_jp.png" alt="ハブページ" width="50%"><figcaption></figcaption></figure>
+
 <!--
 - 設定：クリックすると「ハブ設定の管理」画面が表示されます。ハブを閲覧するメンバーを選択することができます。
 - ハブ一覧から作成したハブ名をクリックして、ハブの編集をします。
@@ -55,5 +58,4 @@
 
 ## ハブのレイアウト変更
 ハブ編集して、表示させる情報を設定後、各アセットはマウスで表示を拡張したり、配置を変更することができます。<!--動画を入れたい-->
-<video src="../../.gitbook/assets/Hub_Layout_Sample.mp4" controls="true" width="600"></video>
 <div><video controls src="../../.gitbook/assets/Hub_Layout_Sample.mp4" muted="false" controls="true" width="600"></video></div>
