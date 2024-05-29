@@ -5,6 +5,7 @@
 <figure><img src="../../.gitbook/assets/Hub_Page_Initial_jp.png" alt="ハブページ" width="50%"><figcaption></figcaption></figure>
 
 | 項目             | 説明                                                                                   |
+| -                | -                                                                                      |
 | ハブ             | ハブの名前が記載されます。グループ名をクリックすると、ハブ設定の編集画面へ遷移します。 |
 | 説明             | ハブの概要が表示されます。                                                             |
 | アセット         | ハブに登録してある、アセットの数が表示されます。                                       |
