@@ -52,5 +52,7 @@
 
 ## ハブのレイアウト変更
 ハブ編集して、表示させる情報を設定後、各アセットはマウスで表示を拡張したり、配置を変更することができます。
+
 {% embed url="../../.gitbook/assets/Hub_Sample.mov" %}
-<video src="../../.gitbook/assets/Hub_Sample.mov" controls="true"　width="600"></video>
+
+<video src="../../.gitbook/assets/Hub_Sample.mov" controls="true" width="600"></video>
