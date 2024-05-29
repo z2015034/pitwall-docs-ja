@@ -56,3 +56,7 @@
 {% embed url="../../.gitbook/assets/Hub_Sample.mov" %}
 
 <video src="../../.gitbook/assets/Hub_Sample.mov" controls="true" width="600"></video>
+
+<video controls width="600">
+  <source src="../../.gitbook/assets/Hub_Sample.mov" type="video/mov" />
+</video>
