@@ -58,4 +58,7 @@
 
 ## ハブのレイアウト変更
 ハブ編集して、表示させる情報を設定後、各アセットはマウスで表示を拡張したり、配置を変更することができます。<!--動画を入れたい-->
-<div><video controls src="../../.gitbook/assets/Hub_Layout_Sample.mp4" muted="false" controls="true" width="600"></video></div>
+
+{% embed url="https://firebasestorage.googleapis.com/v0/b/pitwall-alert-manager.appspot.com/o/clips%2FQwlsVFrPnFNMy02V39Gi%2FF5SlrZtFfhPYIV2ch9MbcIt9rct2%2FYtiNWBe39x8lJanrYk1P.webm?alt=media&token=19cab9ba-486b-4e1b-8b16-dbc073708506" %}
+
+
