@@ -4,9 +4,20 @@
 
 **下記のシナリオ設定を例として、通知内容説明をします。**
 
+<figure><img src="../.gitbook/assets/notification_scenario_sample.png" width="75%" alt="通知シナリオサンプル"></figure>
+
+| 項目             | 説明                    |
+| -                | -                       |
+| シナリオ名       | テストシナリオ          |
+| シナリオタイプ   | 定期実行                | 
+| ルックアップ設定 | AbuseIPDBとGoogleを設定 |
+| 通知先           | Teamsとメールを設定     |
+
+<!--
 |シナリオ                        | 設定内容  |
-|---                            | ---   |
-|<figure><img src="../.gitbook/assets/notification_scenario_sample.png" width="75%" alt="通知シナリオサンプル"></figure>|シナリオ名：テストシナリオ<br>シナリオタイプ：定期実行<br>ルックアップ設定：AbuseIPDBとGoogleを設定<br>通知先：Teamsとメールを設定|
+| -                              | -         |
+|<figure><img src="../.gitbook/assets/notification_scenario_sample.png" width="75%" alt="通知シナリオサンプル"></figure> | シナリオ名：テストシナリオ<br>シナリオタイプ：定期実行<br>ルックアップ設定：AbuseIPDBとGoogleを設定<br>通知先：Teamsとメールを設定 |
+-->
 
 ## 通知内容
 下記の例は、Webhook機能を利用してTeamsに通知を受領した際のサンプル画面です。
@@ -16,10 +27,10 @@
 <figure><img src="../.gitbook/assets/Notification_Teams_Title_jp.png" width="50%" alt="通知タイトル"></figure>
 
 | 項目        | 説明  |
-|:---         | :--   |
-|件名         |PITWALLからの通知であること、シナリオタイプ、そしてシナリオ名が記載されます。
-|Triggered    |シナリオが実行された日時。
-|説明         |シナリオタイプ名と実行されたシナリオ名が記載されます。
+| -           | -     |
+|件名         |PITWALLからの通知であること、シナリオタイプ、そしてシナリオ名が記載されます。|
+|Triggered    |シナリオが実行された日時。|
+|説明         |シナリオタイプ名と実行されたシナリオ名が記載されます。|
 
 
 ### 通知から実行可能なアクション
