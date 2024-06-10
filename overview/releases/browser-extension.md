@@ -1,5 +1,19 @@
 # ブラウザ拡張機能
 
+## 4.18.2024 - Chrome拡張機能 v.0.4.10
+
+Minor bug fixes with updated manifest file. Download from here.
+
+## 3.8.2024 - Chrome拡張機能 v.0.4.9
+
+Pause resume recording feature.
+Minor UI improvement and bug fixes. Download from here.
+
+## 2.13.2024 - Chrome拡張機能 v.0.4.8
+
+Warning message clip threads.
+Minor UI improvement and bug fixes. Download from here.
+
 ## 2.2.2024 - Chrome拡張機能 v.0.4.7
 
 * PITWALLに動画をアップロードしている間、Clipperがキャプチャした動画をローカルホストへ保存するよう変更。

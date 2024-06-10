@@ -1,103 +1,90 @@
 # Web UI & Backend
 
-## 2.2.2024 - build v.1.2.17
+## 6.1.2024 - build v.1.4.18
 
-* アラートボディー全体の修正
-* UIの細かな改善とバグ修正
+UIの細かな改善とバグ修正
 
-## 1.27.2024 - build v.1.2.16
+## 5.30.2024 - build v.1.4.17
 
-* ブラウザ自動化の機能強化により "href "をサポート
-* ダッシュボードグループにダッシュボードのカラーリングを追加
-* アセットに拡張機能を追加
-* クリップへPIN、タグ、コメントの追加
-* クリップのアップロード者表示を追加
-* スレッドでのコメント編集機能の追加
-* UIの細かな改善とバグ修正
+UIの細かな改善とバグ修正
 
-## 1.23.2024 - build v.1.2.15
+## 5.28.2024 - build v.1.4.16
 
-* MFAパフォーマンス改善
-* UIの細かな改善とバグ修正
+New "Home" screen released. 
+Utilizing "key(s)" in the alert body in the browser automation setting.
+UIの細かな改善とバグ修正
 
-## 1.18.2024 - build v.1.2.14
+## 5.22.2024 - build v.1.4.15
 
-* UIの細かな改善とバグ修正
+Multiple assignees for a thread.
+Status selectable in the thread list.
+Improvement of the deleting logic for a scenario.
+Removed required confition for thread "severity".
+UIの細かな改善とバグ修正
 
-## 1.16.2024 - build v.1.2.14
+## 5.16.2024 - build v.1.4.14
 
-* UIの細かな改善とバグ修正
+スタジオのバグ修正
 
-## 1.16.2024 - build v.1.2.13
+## 5.15.2024 - build v.1.4.13
 
-* UIの細かな改善とバグ修正
+CVE-2024-4671 対応
 
-## 1.12.2024 - build v.1.2.12
+## 5.14.2024 - build v.1.4.12
 
-* \[Thread] 関連性のないクリップとリンクをタイムラインから削除できるようになりました。
-* \[Thread] Slack、Teams、メールで受信したアラートから直接スレッドを作成できるようになりました。
-* UIの細かな改善とバグ修正
+Expert Note (β) released.
+Thread paste & drop experience.
+Minor UI and bug fixes around Wizard and Local Agent.
 
-## 1.9.2024 - chrome 拡張機能 v.0.4.3
+## 5.11.2024 - build v.1.4.11
 
-* UIの細かな改善とバグ修正。[ここ](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)からダウンロード。
+Bring "PITWALL Hub" to the top.
+Pinning feature for Hub.
+Run scheduled scenario on-demand.
+Minor UI and bug fixes around Wizard and Local Agent.
 
-## 1.6.2024 - build v.1.2.11
+## 5.4.2024 - build v.1.4.9 - v.1.4.10
 
-* MFA (多要素認証) 機能をリリース
-* UIの細かな改善とバグ修正
+"PITWALL dashboard" is now "PITWALL Hub".
+Fixed a multiple messages bug to email. 
+Password restriction and error message update (SOC2 compliant).
+UIの細かな改善とバグ修正
 
-## 1.5.2024 - build v.1.2.10
+## 4.27.2024 - build v.1.4.8
 
-* \[Thread] スレッドに 「アノテーション」、「PIN」、「タグ」、「コメント」を追加。インシデント分析のため、タイムラインのスクリーンショットにこれらのコンテキストを追加可能。
-* \[PITWALL ダッシュボード] 定期更新の有効化。ダッシュボードを自動的に更新する間隔を設定可能。
-* \[Clips] 各クリップへの共有リンクが利用可能です。各クリップへの共有リンクが利用可能。キャプチャしたクリップをSlackなどの他のツールで共有可能。
-* \[UI] サイドバーデザインの改善。
-* \[Event view] イベントビューに、履歴から自動的に最新3つのアラートへのリンクとスクリーンショットをすべて表示するように変更。
-* UIの細かな改善とバグ修正
+Thread timeline history initial release. More to come.
+UIの細かな改善とバグ修正
 
-## 1.3.2024 - build v.1.2.9
+## 4.27.2024 - build v.1.4.7
 
-* メールテンプレート本文の一部として、すべてのアラートソースに「message」値を追加
-* UIの細かな改善とバグ修正
+Categoried list of configured assets in Studio.
+UIの細かな改善とバグ修正
 
-## 12.22.2023 - build v.1.2.6
+## 4.24.2024 - build v.1.4.5 & v.1.4.6
 
-* ISOタイムスタンプ対応のためのパーサー機能を追加。ISOタイムスタンプ(unixタイムスタンプではない)形式の監視ツールが適切に処理されます。
-* UIの細かな改善とバグ修正
+Custom key LLM enhancement. 
+Asset ordering at the time of dashboard creation.
+UIの細かな改善とバグ修正
 
-## 12.21.2023 - build v.1.2.5
+## 4.24.2024 - build v.1.4.4
 
-* UIの細かな改善
+スキップ
+4.19.2024 - build v.1.4.3
+\[UI improvement] tooltip on the recipient in the instant scenario
+\[bug] auto-refresh error.
+UIの細かな改善とバグ修正
 
-## 12.20.2023 - build v.1.2.4
+## 4.19.2024 - build v.1.4.2
 
-* PITWALLのIPアドレス固定スクリーンショット
-* UIの細かな改善とバグ修正
+\[UI] Link enabled and visible on thread view.
+UIの細かな改善とバグ修正
 
-## 12.16.2023 - build v.1.2.3
+## 4.15.2024 - build v.1.4.1 
 
-* 成功画像のスクリーンショット再取得と画像拡大機能
-* UIの細かな改善とバグ修正
+スキップ
 
-## 12.14.2023 - build v.1.2.2
+## 4.14.2024 - build v.1.4.0
 
-* 想定 triage room の完成。タブ機能を使用してスレッドに新規タイムラインを作成できるようになりました。
-* UIの細かな改善とバグ修正
-
-## 12.14.2023 - chrome 拡張機能 v.0.4.1 &#x20;
-
-* 新しい2 in 1デザイン。 [ここ](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)からダウンロード。
-
-## 12.13.2023 - build v.1.2.1 &#x20;
-
-* Triage Room と Clipper
-  * Overview の拡張.
-  * Triage Room と ClipperのUI 改善UI
-* UIの細かな改善とバグ修正
-
-## 12.6.2023 - build v.1.2.0
-
-* Triage Room と Clipperのベータリリース :tada:.
-* Chrome 拡張機能 0.4.0. Clipperの有効化
-* UIの細かな改善とバグ修正
+\[UI] Lookup group type selector.
+\[Localization Bug - Thread] User name translated.
+UIの細かな改善とバグ修正

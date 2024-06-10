@@ -10,7 +10,7 @@
 * [機能紹介](overview/features.md)
 * [ロードマップ](overview/roadmap.md)
 * [リリースノート](overview/releases/README.md)
-  * [Web UI & Backend](overview/releases/web-ui-and-backend/README.md)
+  * [Web UI & Backend](overview/releases/webui-backend/README.md)
     * [Web UI & Backend - アーカイブ](overview/releases/webui-backend/archive/README.md)
       * [Web UI & バックエンド Pre-GA](overview/releases/webui-backend/archive/pre-ga/README.md)
         * [リリースノート v.0.12.x](overview/releases/webui-backend/archive/pre-ga/v0_12_x.md)
