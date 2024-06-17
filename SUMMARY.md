@@ -45,7 +45,7 @@
     * [ブラウザの自動化](tutorial-get-started/studio/screenshot-automation.md)
   * [ローカル・エージェント](tutorial-get-started/studio/local-agent.md)
   * [利用状況](tutorial-get-started/studio/analysis-center.md)
-  * [専門家のコメント](tutorial-get-started/studio/expert-notes.md)
+  * [エキスパートノート](tutorial-get-started/studio/expert-notes.md)
 
 * [コラボレーション](tutorial-get-started/collaboration/README.md)
   * [スレッド](tutorial-get-started/collaboration/threads.md)
