@@ -1,20 +1,21 @@
 # ブラウザ拡張機能
 
 ## 6.10.2024 - chrome extension v.0.4.11
-Improvement in the clipper state management. Download from here.
+
+- クリッパー機能の状態管理の改善。[**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。
 
 ## 4.18.2024 - Chrome拡張機能 v.0.4.10
 
-- Minor bug fixes with updated manifest file. [**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。
+- マニフェストファイル更新でのバグの修正。[**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。
 
 ## 3.8.2024 - Chrome拡張機能 v.0.4.9
 
-- Pause resume recording feature.
+- 録画の一時停止・再開機能追加
 - UIの細かな改善とバグ修正。 [**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。
 
 ## 2.13.2024 - Chrome拡張機能 v.0.4.8
 
-- Warning message clip threads.
+- スレッドに警告メッセージのクリップ
 - UIの細かな改善とバグ修正 [**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。
 
 ## 2.2.2024 - Chrome拡張機能 v.0.4.7
