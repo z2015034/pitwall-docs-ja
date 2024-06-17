@@ -1,5 +1,8 @@
 # ブラウザ拡張機能
 
+## 6.10.2024 - chrome extension v.0.4.11
+Improvement in the clipper state management. Download from here.
+
 ## 4.18.2024 - Chrome拡張機能 v.0.4.10
 
 - Minor bug fixes with updated manifest file. [**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。

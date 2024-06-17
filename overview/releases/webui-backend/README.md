@@ -10,17 +10,17 @@
 
 ## 5.28.2024 - build v.1.4.16
 
-- 新しく "Home" 画面をリリース 
-Utilizing "key(s)" in the alert body in the browser automation setting.
+- 新しく "Home" 画面をリリース
+- 「ブラウザの自動化」でアラート内の「Key」が利用可能になりました。
 - UIの細かな改善とバグ修正
 
 ## 5.22.2024 - build v.1.4.15
 
-Multiple assignees for a thread.
-Status selectable in the thread list.
-Improvement of the deleting logic for a scenario.
-Removed required confition for thread "severity".
-UIの細かな改善とバグ修正
+- 複数担当者のスレッド割当
+- スレッド一覧でステータス選択可能
+- シナリオ削除ロジックの改善
+- スレッドの「重大度」を必須項目から削除
+- UIの細かな改善とバグ修正
 
 ## 5.16.2024 - build v.1.4.14
 
@@ -32,38 +32,38 @@ UIの細かな改善とバグ修正
 
 ## 5.14.2024 - build v.1.4.12
 
-Expert Note (β) released.
-Thread paste & drop experience.
-Minor UI and bug fixes around Wizard and Local Agent.
+- エキスパートノート（ベータ）リリース
+- スレッドへのドロップペースト機能追加
+- ウィザードとローカルエージェント周りのUIの細かな改善とバグ修正
 
 ## 5.11.2024 - build v.1.4.11
 
 - "PITWALL ハブ" を最上部へ移動
-Pinning feature for Hub.
-Run scheduled scenario on-demand.
-Minor UI and bug fixes around Wizard and Local Agent.
+- ハブのピン機能追加
+- スケジュールシナリオのオンデマンド実行対応
+- ウィザードとローカルエージェント周りのUIの細かな改善とバグ修正
 
 ## 5.4.2024 - build v.1.4.9 - v.1.4.10
 
 - "PITWALLダッシュボード" を "PITWALLハブ"に名称変更
-Fixed a multiple messages bug to email. 
-Password restriction and error message update (SOC2 compliant).
+- E-メールの複数メッセージに関するバグを修正
+- パスワード制限とエラーメッセージの更新（SOC2準拠）
 - UIの細かな改善とバグ修正
 
 ## 4.27.2024 - build v.1.4.8
 
-Thread timeline history initial release. More to come.
+- スレッドのタイムライン履歴の初期リリース（開発中）
 - UIの細かな改善とバグ修正
 
 ## 4.27.2024 - build v.1.4.7
 
-Categoried list of configured assets in Studio.
+- スタジオ内でアセットのカテゴリーリスト表示
 - UIの細かな改善とバグ修正
 
 ## 4.24.2024 - build v.1.4.5 & v.1.4.6
 
-Custom key LLM enhancement. 
-Asset ordering at the time of dashboard creation.
+- カスタムキー LLM の機能強化 
+- ダッシュボード作成時のアセットの並び順
 - UIの細かな改善とバグ修正
 
 ## 4.24.2024 - build v.1.4.4
@@ -71,21 +71,21 @@ Asset ordering at the time of dashboard creation.
 - スキップ
 
 ## 4.19.2024 - build v.1.4.3
-\[UI improvement] tooltip on the recipient in the instant scenario
-\[bug] auto-refresh error.
+- \[UI改善] インスタントシナリオで通知先にツールTIPS表示
+- \[バグ] 自動更新エラー
 - UIの細かな改善とバグ修正
 
 ## 4.19.2024 - build v.1.4.2
 
-- \[UI] Link enabled and visible on thread view.
+- \[UI] スレッドビューでのリンクの有効化、可視化
 - UIの細かな改善とバグ修正
 
 ## 4.15.2024 - build v.1.4.1 
 
-スキップ
+- スキップ
 
 ## 4.14.2024 - build v.1.4.0
 
-- \[UI] Lookup group type selector.
-- \[Localization Bug - Thread] User name translated.
+- \[UI] ルックアップグループのタイプ選択
+- \[スレッド - バグ対応] 「ユーザ名」翻訳修正
 - UIの細かな改善とバグ修正
